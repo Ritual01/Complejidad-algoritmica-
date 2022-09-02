@@ -1,0 +1,10 @@
+ private static int (int v , int t){
+        int t= int i; int v=0; result :=0 ;
+       for (int i; i>=0;i--){
+           result :=result+v[i];
+           
+       }
+        return result
+    }
+    
+}
