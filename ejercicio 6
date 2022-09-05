@@ -1,0 +1,15 @@
+public class Ejercicio6 {
+    private static int saber (v[] args , int tamaño ) {
+       int i;
+       int result;
+       result =0;
+       i = tamaño - 1 ;
+       while ( i >= 0 ){
+            result = result + v[i] ;
+            i = i - 2;
+       }
+        return result;
+    }    
+}
+
+        
