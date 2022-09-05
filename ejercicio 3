@@ -1,0 +1,10 @@
+public class Ejercicio3 {
+   public static int suma(v[] args, int tamaño) {
+        int i; int result=0;
+        int[] v;
+        for (i=0;i<tamaño;i++){
+            result =result+v[i];
+        }
+        return result;
+   }
+} 
